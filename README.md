@@ -8,7 +8,7 @@ Recently completed a backend internship and actively building real-world product
 - Full-stack apps with role-based auth and real payments  
 - APIs with Python (FastAPI) and Node.js (Express)
 
-## Pinned Projects
+## Projects
 - Coaching Center Management System (Full-Stack Internal Tool)  
 - SmartCart – Full-Stack E-Commerce Platform  
 
